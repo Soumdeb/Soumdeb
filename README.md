@@ -13,30 +13,27 @@ I enjoy learning new technologies and turning ideas into real applications.
 
 ---
 
-### 🧠 Languages
-- Python  
-- C / C++
+### 🚀 Tech & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,sklearn,html,css,git,vscode,streamlit" />
+
+</div>
 
 ---
 
-### ⚙️ Tech Stack
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- TensorFlow  
-- TensorFlow Lite  
-- Jupyter Notebook  
-- Streamlit  
-- HTML  
-- CSS  
+### 🧠 Libraries & Frameworks
 
----
+<div align="center">
 
-### 🛠 Developer Tools
-- VS Code  
-- Git  
+<img src="https://skillicons.dev/icons?i=py" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+
+</div>
 
 ---
 
@@ -45,7 +42,7 @@ I enjoy learning new technologies and turning ideas into real applications.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/soumyadeb-nandy-3b2214324">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -56,7 +53,9 @@ I enjoy learning new technologies and turning ideas into real applications.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumdeb&show_icons=true&theme=dracula" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Soumdeb&theme=dracula" height="170"/>
 
 </div>
 
@@ -66,5 +65,6 @@ I enjoy learning new technologies and turning ideas into real applications.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
