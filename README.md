@@ -6,7 +6,7 @@ Welcome to My GitHub
 </h1>
 
 <div align="center">
-  <img src="Github PFP.png" width="200" style="border-radius:50%" alt="profile avatar"/>
+  <img src="cropped_circle_image.png" width="200" style="border-radius:50%" alt="profile avatar"/>
 </div>
 
 <div align="center">
